@@ -484,7 +484,7 @@ h1, h2, h3, h4, h5,
     font-size: 1.7rem; }
     .site-navbar .site-logo a {
       color: #00a651;
-      text-transform: lowercase; }
+      text-transform: uppercase; }
     @media (max-width: 991.98px) {
       .site-navbar .site-logo {
         float: left;
@@ -510,9 +510,9 @@ h1, h2, h3, h4, h5,
         display: inline-block;
         text-decoration: none !important; }
         .site-navbar .site-navigation .site-menu > li > a:hover {
-          color: #00a651; }
+          color: #498dbe !important; }  /* color change to #498dbe | previous color #00a651 */
       .site-navbar .site-navigation .site-menu > li.active > a {
-        color: #00a651 !important; }
+        color: #498dbe !important; }  /* color change to #498dbe | previous color #00a651 */
     .site-navbar .site-navigation .site-menu .has-children {
       position: relative; }
       .site-navbar .site-navigation .site-menu .has-children > a {
