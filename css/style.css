@@ -313,18 +313,18 @@ h1, h2, h3, h4, h5,
   .site-footer .border-top {
     border-top: 1px solid rgba(255, 255, 255, 0.1) !important; }
   .site-footer p {
-    color: gray; }
+    color: #ddd; }
   .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5 {
     color: #000; }
   .site-footer a {
     color: rgba(0, 0, 0, 0.5); }
     .site-footer a:hover {
-      color: #00a651; }
+      color: #498dbe; }
   .site-footer ul li {
     margin-bottom: 10px; }
   .site-footer .footer-heading {
     font-size: 16px;
-    color: #000; }
+    color: #fff; }
 
 .bg-text-line {
   display: inline;
