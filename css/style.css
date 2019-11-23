@@ -309,7 +309,7 @@ h1, h2, h3, h4, h5,
   background-color: #c9ccd4; }
   @media (min-width: 768px) {
     .site-footer {
-      padding: 8em 0; } }
+      padding: 2.5em 0; } }
   .site-footer .border-top {
     border-top: 1px solid rgba(255, 255, 255, 0.1) !important; }
   .site-footer p {
@@ -1712,7 +1712,8 @@ h1, h2, h3, h4, h5,
   .feature-29192-wrap .feature-29192 {
     width: 33.3333%;
     height: 300px;
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
     background-position: center; }
     @media (max-width: 991.98px) {
       .feature-29192-wrap .feature-29192 {
